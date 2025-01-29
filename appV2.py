@@ -12,9 +12,9 @@ import pandas as pd
 st.title("Researcher Profile Page")
 
 # Collect basic information
-name = "Dr. Jane Doe"
-field = "Astrophysics"
-institution = "University of Science"
+name = "Ms. Vhulenda Sumbana"
+field = "Computer Science and Information Technology"
+institution = "Sefako Makhatho Health Science University"
 
 # Display basic profile information
 st.header("Researcher Overview")
