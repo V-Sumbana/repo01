@@ -52,5 +52,5 @@ if uploaded_file:
 
 # Add a contact section
 st.header("Contact Information")
-email = "jane.doe@example.com"
+email = "v.vhulenda@smu.com"
 st.write(f"You can reach {name} at {email}.")
